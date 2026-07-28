@@ -1,0 +1,72 @@
+# FAIL.toml
+# Free AI License Project Manifest
+# Specification Version: 1.0
+
+[fail]
+license = "FAIL-1.0"
+specification = "1.0"
+registry_id = "FAIL-000001"
+status = "active"
+compliance = "FAIL Core"
+
+[project]
+name = "Walluu AI"
+description = "Open Artificial Intelligence platform developed by Walluu AI."
+version = "1.0.0"
+repository = "https://github.com/walluuai/walluu"
+homepage = "https://walluu.ai"
+
+[organization]
+name = "Walluu AI"
+foundation = "Free AI License Foundation"
+
+[maintainer]
+name = "Walluu AI"
+email = "opensource@walluu.com"
+
+[components]
+source_code = true
+ai_models = true
+model_weights = true
+datasets = true
+agents = true
+apis = true
+sdk = true
+documentation = true
+examples = true
+prompt_library = true
+
+[rights]
+commercial_use = true
+modify = true
+redistribute = true
+private_use = true
+research = true
+education = true
+derivative_works = true
+
+[requirements]
+attribution = true
+include_license = true
+comply_with_law = true
+
+[security]
+security_policy = "SECURITY.md"
+responsible_disclosure = true
+
+[documentation]
+readme = "README.md"
+license = "LICENSE.md"
+manifesto = "MANIFESTO.md"
+specification = "FAIL Specification.md"
+
+[registry]
+foundation = "Free AI License Foundation"
+verified = true
+verification_date = "2026-07-28"
+
+[metadata]
+created = "2026-07-28"
+last_updated = "2026-07-28"
+format = "FAIL TOML"
+schema_version = "1.0"
