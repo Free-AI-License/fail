@@ -152,3 +152,7 @@ SECTION 9
 Acceptance
 
 Using the Software constitutes acceptance of this License.
+
+## License
+
+Read the complete legal text in the [LICENSE](LICENSE).
