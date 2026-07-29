@@ -368,4 +368,4 @@ information.
 
 ## License
 
-Read the complete legal text in the [LICENSE](LICENSE).
+Read the complete legal text in the [LICENSE](LICENSE.md).
